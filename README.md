@@ -11,3 +11,5 @@ Key features included:
   
 The project showcased proficiency in Figma’s tools, including component creation, prototyping for interactive flows, and collaboration features. 
 It highlights a strong understanding of user-centric design and effective teamwork.
+
+https://www.figma.com/design/YOd2PRrGdAv0f0WLHAYEy1/Instagram?node-id=0-1&p=f&t=tZC6MGPXpYHrgoB1-0
